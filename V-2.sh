@@ -64,7 +64,7 @@ echo ""
 # Cyan for Anonymous slogan
 echo -e "\e[1;36m"
 echo "  ~ We Are Black Hat ~"
-echo "  ~ We Are Legion ~"
+echo "  ~ We Are Legends ~"
 echo "  ~ We Do Not Forgive ~"
 echo "  ~ We Do Not Forget ~"
 echo "  ~ Expect Us ~"
